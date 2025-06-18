@@ -192,3 +192,7 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+all_stocks_5yr.csv
+df_filtered.csv
+large_backtest_plot (2).png
+selected_company_sample.csv
