@@ -196,3 +196,19 @@ all_stocks_5yr.csv
 df_filtered.csv
 large_backtest_plot (2).png
 selected_company_sample.csv
+stocks/XL.csv
+stocks/ORLY.csv
+stocks/MS.csv
+stocks/MHK.csv
+stocks/LEG.csv
+stocks/IT.csv
+stocks/IBM.csv
+stocks/GRMN.csv
+stocks/EBAY.csv
+stocks/EA.csv
+stocks/CMG.csv
+stocks/CB.csv
+stocks/BAC.csv
+stocks/AXP.csv
+stocks/AVGO.csv
+final_portfolio.csv
