@@ -212,3 +212,8 @@ stocks/BAC.csv
 stocks/AXP.csv
 stocks/AVGO.csv
 final_portfolio.csv
+max_sharpe_portfolio.csv
+min_variance_portfolio.csv
+.gitignore
+modeling_max_sharpe_portfolio.csv
+tangency_portfolio.csv
