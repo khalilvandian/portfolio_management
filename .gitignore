@@ -218,3 +218,4 @@ min_variance_portfolio.csv
 modeling_max_sharpe_portfolio.csv
 tangency_portfolio.csv
 stocks/NoRisk.csv
+final_portfolio_without_norisk.csv
