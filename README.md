@@ -118,6 +118,9 @@ Equal budget allocation to all assets.
 
 ---
 
+
+
+![Strategy Comparison](Results/strategy_comparison_with_markers.png)
 ## 💡 Conclusions
 
 - **Markowitz models** demonstrate classic tradeoffs: Sharpe maximization leads to risk concentration; variance minimization improves diversification.
@@ -133,3 +136,44 @@ Equal budget allocation to all assets.
 - Use **daily prediction granularity**
 - Implement **more refined weighting** for top-k selections
 - Enable **rolling monthly retraining** for LSTM models
+
+---
+
+## 📁 Repository Structure
+
+```
+📦portfolio-optimization-nasdaq
+ ┣ 📁 data/                  # Stock price data
+ ┣ 📁 notebooks/            # Jupyter Notebooks for EDA & modeling
+ ┣ 📁 models/               # Trained LSTM models and configs
+ ┣ 📁 results/              # Plots, logs, and performance reports
+ ┣ 📜 requirements.txt      # Required Python libraries
+ ┗ 📜 README.md             # Project overview and guide
+```
+
+---
+
+## ▶️ Getting Started
+
+**Requirements:**
+- Python ≥ 3.8
+- pandas, numpy, matplotlib, seaborn
+- scikit-learn, statsmodels
+- cvxpy, PyPortfolioOpt
+- keras / tensorflow
+- backtrader
+
+**Installation:**
+```bash
+git clone https://github.com/yourusername/portfolio-optimization-nasdaq.git
+cd portfolio-optimization-nasdaq
+pip install -r requirements.txt
+```
+
+---
+
+## 👥 Authors
+
+- **Babak Khalilvandian**
+- **Cristian Longoni**
+- **Sergio Verga**
